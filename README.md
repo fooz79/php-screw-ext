@@ -8,7 +8,7 @@ PHP 混淆解密扩展
 - 基于 https://sourceforge.net/projects/php-screw/
 - 参考 https://github.com/del-xiong/screw-plus/
 
-### 验证流程
+### 验证及解密流程
 
 基于非对称密钥的解密权限验证
 
@@ -24,5 +24,6 @@ PHP 混淆解密扩展
 
 ### TODO
 
-- [ ] 了解 Hook 的方法，确认要 Hook 的位置
-
+- [ ] 了解 EXT Hook 的方法，确认要 Hook 的位置
+- [ ] 解密扩展 
+- [ ] 加密工具 (PHP)
